@@ -5,4 +5,4 @@
 - Developed my Python skills in aspects like Methods, Control Flow, Data Types, and Libraries.
 - Used libraries like Requests and BeautifulSoup to help with HTML parsing and HTTP requests.
 - Learned web scraping, HTML basics, HTTP requests, and JavaScript notation.
-- Self-learnt using Google and YouTube.
+- Independently created with assistance from the Department of Computer Science and Engineering at Texas A&M University.
